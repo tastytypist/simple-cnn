@@ -11,3 +11,9 @@ Assuming you've installed the latest version of Python (if not, guides for it ar
 |----------|------------------------|-----------------------------------------------------------------------|
 | 13520041 | Ilham Pratama          | Class model; Convolutional layer; Report                              |
 | 13520042 | Jeremy S.O.N. Simbolon | Dataset handling; Detector, Pooling, Dense, and Flatten layer; Report |
+
+## Contribution (Milestone 2)
+| NIM      | Name                   | Contribution(s)                                                       |
+|----------|------------------------|-----------------------------------------------------------------------|
+| 13520041 | Ilham Pratama          | Model training; Detector, Pooling, Dense, and Flatten layer; Report   |
+| 13520042 | Jeremy S.O.N. Simbolon | Model training; Model loading and saving; Convolutional layer; Report |
